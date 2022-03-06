@@ -10,3 +10,5 @@ I am **Satya**, a.k.a **Sita Ram** a.k.a **Sai**, a full stack developer from An
 - Java J2EE 
 - Spring Boot
 - Camunda Workflow Engine 
+- Data Science
+- Machine Learning
